@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.topRow {
+  height: 80vh;
+  background-image: linear-gradient( 135deg, #92FFC0 10%, #002661 100%);
+}
